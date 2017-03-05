@@ -60,14 +60,13 @@ CNN、RNN、DNN的内部网络结构有什么区别?：https://www.zhihu.com/que
 #-中文筆記 
 AI重頭學
 http://hemingwang.blogspot.tw/2017/03/ailenet.html
+
 DoReMi's Blog
 http://doremi2016.logdown.com/posts/2017/02/22/1447469
-
-http://blog.csdn.net/abcjennifer/article/details/7804962
 
 無監督特徵學習 unsupervised feature learning
 http://blog.csdn.net/abcjennifer/article/details/7804962
 
-#-中文深度學席部落格文章搜尋
+#-更多中文教材 
 http://so.csdn.net/so/search/s.do?ref=toolbar&q=深度學習&ref=toolbar&q=深度學習
 http://blog.csdn.net/mydear_11000/article/details/47903323

@@ -1,22 +1,29 @@
 
 # 論文筆記
 
-
+To be added 
 
 
  
 #-英文線上課程影片 
 Courera/Neural networks,https://www.coursera.org/learn/neural-networks
 Udacity/ Deep Learning,https://www.udacity.com/course/deep-learning--ud730
+Edx/ Deep Learning,https://www.edx.org/course/deep-learning-through-transformative-uqx-microsoft-education-learnx
 #中文教學影片：
+
 Prof. Hung-Yi Lee：http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
+
+影片
 https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ
 
+Prof. Hsuan-Tien Lin：http://www.csie.ntu.edu.tw/~htlin/mooc/
+
+影片
+https://www.youtube.com/user/hsuantien/videos
 
 #中文教學：
 Unsupervised Feature Learning and Deep Learning (UFLDL)：http://deeplearning.stanford.edu/wiki/index.php/UFLDL教程
 Deep Learning速成教程：http://www.leiphone.com/news/201608/7lwVZCXnScbQb6cJ.html
-Prof. Hsuan-Tien Lin：http://www.csie.ntu.edu.tw/~htlin/mooc/
 
 
 #英文教程：
@@ -50,5 +57,17 @@ http://blog.csdn.net/zouxy09/article/details/8775360
 其它：
 CNN、RNN、DNN的内部网络结构有什么区别?：https://www.zhihu.com/question/34681168
 
-#-中文筆記 http://mit.twman.org/TonTon-Hsien-De-Huang/research/deeplearning
+#-中文筆記 
+AI重頭學
+http://hemingwang.blogspot.tw/2017/03/ailenet.html
+DoReMi's Blog
+http://doremi2016.logdown.com/posts/2017/02/22/1447469
 
+http://blog.csdn.net/abcjennifer/article/details/7804962
+
+無監督特徵學習 unsupervised feature learning
+http://blog.csdn.net/abcjennifer/article/details/7804962
+
+#-中文深度學席部落格文章搜尋
+http://so.csdn.net/so/search/s.do?ref=toolbar&q=深度學習&ref=toolbar&q=深度學習
+http://blog.csdn.net/mydear_11000/article/details/47903323

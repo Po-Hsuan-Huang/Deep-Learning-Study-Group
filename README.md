@@ -93,8 +93,15 @@ Deep Learning（深度学习）学习笔记整理系列之常用模型：http://
 遞歸神經網路(RECURRENT NEURAL NETWORK)學習：http://www.gegugu.com/2016/08/22/13565.html
 
 Deep Belief Network简介：http://blog.csdn.net/yewei11/article/details/50222911
+#-更多英文資源
+Jeremy D. Jackson, PhD
+http://www.jeremydjacksonphd.com/category/deep-learning/
 
+CS231n: Convolutional Neural Networks for Visual Recognition. 
+http://cs231n.github.io
 
+Deep Reinforcement Learning, Spring 2017
+http://rll.berkeley.edu/deeprlcourse/#related-materials
 
 # 參考書
 [0] Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015). [pdf] (Deep Learning Bible, you can read this book while reading following papers.)

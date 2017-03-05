@@ -1,8 +1,10 @@
 
 # 論文筆記
 
-To be added 
+To be added.
 
+We are going to read these papers.
+https://github.com/Po-Hsuan-Huang/Deep-Learning-Papers-Reading-Roadmap
 
  
 #-英文線上課程影片 
@@ -70,3 +72,6 @@ http://blog.csdn.net/abcjennifer/article/details/7804962
 #-更多中文教材 
 http://so.csdn.net/so/search/s.do?ref=toolbar&q=深度學習&ref=toolbar&q=深度學習
 http://blog.csdn.net/mydear_11000/article/details/47903323
+
+# 參考書
+[0] Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "Deep learning." An MIT Press book. (2015). [pdf] (Deep Learning Bible, you can read this book while reading following papers.)

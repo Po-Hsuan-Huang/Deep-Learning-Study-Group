@@ -7,32 +7,38 @@ We are going to read these papers.
 https://github.com/Po-Hsuan-Huang/Deep-Learning-Papers-Reading-Roadmap
 
  
-#-英文線上課程影片 
-Courera/Neural networks,https://www.coursera.org/learn/neural-networks
+#-英文線上課程影片
 
+深度學習入門課程（最基礎課程 多關於影像辨識）
 Udacity/ Deep Learning,https://www.udacity.com/course/deep-learning--ud730
 
+神經網路的入門課程（許多關於訓練方法）
+Courera/Neural networks,https://www.coursera.org/learn/neural-networks
+
+沒看過
 Edx/ Deep Learning,https://www.edx.org/course/deep-learning-through-transformative-uqx-microsoft-education-learnx
 
+前沿講座 （最新技術以及學界動態 NIPS ICML）
 Conference recording, http://videolectures.net/deeplearning2016_dean_deep_learning/
 
 #中文教學影片：
 
-Prof. Hung-Yi Lee：http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
+台大李鴻毅教授 Prof. Hung-Yi Lee：http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
 
 https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ
 
-Prof. Hsuan-Tien Lin：http://www.csie.ntu.edu.tw/~htlin/mooc/
+台大林軒田教授 Prof. Hsuan-Tien Lin：http://www.csie.ntu.edu.tw/~htlin/mooc/
 
 https://www.youtube.com/user/hsuantien/videos
 
 #中文教學：
+
 Unsupervised Feature Learning and Deep Learning (UFLDL)：http://deeplearning.stanford.edu/wiki/index.php/UFLDL教程
 
 Deep Learning速成教程：http://www.leiphone.com/news/201608/7lwVZCXnScbQb6cJ.html
 
 
-#英文教程：
+#英文教學：
 http://deeplearning.net/tutorial
 
 
@@ -65,11 +71,12 @@ http://blog.csdn.net/abcjennifer/article/details/7804962
 http://blog.csdn.net/mydear_11000/article/details/47903323
 
 
-#-更多中文教材 
+#-更多中文教材搜尋 
 http://so.csdn.net/so/search/s.do?ref=toolbar&q=深度學習&ref=toolbar&q=深度學習
 
 
 說明文:
+
 技术向：一文读懂卷积神经网络CNN：http://dataunion.org/11692.html
 
 卷积神经网络：http://blog.csdn.net/celerychen2009/article/details/8973218
@@ -93,7 +100,8 @@ Deep Learning（深度学习）学习笔记整理系列之常用模型：http://
 遞歸神經網路(RECURRENT NEURAL NETWORK)學習：http://www.gegugu.com/2016/08/22/13565.html
 
 Deep Belief Network简介：http://blog.csdn.net/yewei11/article/details/50222911
-#-更多英文資源
+
+#-更多DL英文資源（影片，作業，討論，論文，教科書 etc）
 Jeremy D. Jackson, PhD
 http://www.jeremydjacksonphd.com/category/deep-learning/
 
